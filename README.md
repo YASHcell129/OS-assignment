@@ -1,4 +1,4 @@
-# Process Management Lab Assignment
+# Operating System Lab Assignment
 
 **Author:** Yash Malik  
 **Roll no.:** 2301010006
@@ -7,12 +7,12 @@
 
 ---
 ## Repository Structure
-📦OS assignment
+**OS assignment**
 - ┣ 📂OS_assignment1
-- ┃ ┣ 📜process_management.py
+- ┃ ┣ 📜**process_management.py**
 - ┃ ┗ 📜output.txt
 - ┣ 📂OS_assignment2
-- ┃ ┣ 📜system_startup.py
+- ┃ ┣ 📜**system_startup.py**
 - ┃ ┣ 📜process_log.txt
 - ┗ 📜README.md (this file)
 
