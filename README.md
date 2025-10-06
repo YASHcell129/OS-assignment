@@ -30,7 +30,7 @@
 ### **2. Clone Repository**
 
 ```bash
-git clone https://github.com/Yashmalik2004/OS-assignment.git
+git clone https://github.com/YASHcell129/OS-assignment.git
 cd "OS assignment"
 ```
 
@@ -147,6 +147,6 @@ python3 system_startup.py
 
 ## **Contact**
 
-**Author: Yash Malik**
+**Author: Yash Pathak**
 
-**GitHub: https://github.com/Yashmalik2004**
+**GitHub: https://github.com/YASHcell129**
