@@ -1,7 +1,7 @@
 # Operating System Lab Assignment
 
-**Author:** Yash Malik  
-**Roll no.:** 2301010006
+**Author:** Yash Pathak  
+**Roll no.:** 2301010019
 **Course:** ENCS351 - Operating Systems  
 **Program:** B.Tech CSE Core 
 
