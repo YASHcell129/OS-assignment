@@ -1,7 +1,7 @@
 # Operating System Lab Assignment
 
-**Author:** Yash Pathak
-**Roll no.:** 2301010019
+**Author:** Yash Pathak   
+**Roll no.:** 2301010019    
 **Course:** ENCS351 - Operating Systems  
 **Program:** B.Tech CSE Core 
 
@@ -43,7 +43,7 @@
 ### **2. Clone Repository**
 
 ```bash
-git clone https://github.com/Yashmalik2004/OS-assignment.git
+git clone https://github.com/YASHcell129/OS-assignment.git
 cd "OS assignment"
 ```
 
@@ -248,7 +248,8 @@ now run:
 
 ## **Contact**
 
-**Author: Yash Malik**
+**Author: Yash Pathak**
 
-**GitHub: https://github.com/Yashmalik2004**
+**GitHub: https://github.com/YASHcell129**
+
 
